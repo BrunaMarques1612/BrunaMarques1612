@@ -16,9 +16,9 @@ Eu sou a Bruna Marques 👋
   <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bruna-Ps" height="30" width="40" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=3161a0">
   <img align="center" alt="Bruna-Bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7e46d2">
-  <img align="center" alt="Bruna-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=7e46d2">
-  <img align="center" alt="Bruna-Gimp" height="30" width="40" src="https://icongr.am/devicon/gimp-original.svg?size=128&color=7e46d2">
+  <img align="center" alt="Bruna-PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=000000">
   
   ##
  
