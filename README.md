@@ -19,7 +19,6 @@ Eu sou a Bruna Marques 👋
   <img align="center" alt="Bruna-Ps" height="30" width="40" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=3161a0">
   <img align="center" alt="Bruna-Bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7e46d2">
   <img align="center" alt="Bruna-PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=000000">
-  <img align="center" alt="Bruna-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
  
   
   ##
