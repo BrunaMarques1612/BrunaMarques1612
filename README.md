@@ -1,12 +1,12 @@
 ### Oie, Bem-Vindo(a)
 Eu sou a Bruna Marques 👋
 
-##
-
 - 📔 Aluna de Desenvolvimento de Sistemas Etec Zona Leste - 2°Semestre
 
 - 🚀 “Se te oferecem um lugar em um foguete, não pergunte qual é o assento, apenas embarque.” (Sheryl Sandberg)
+
 ##
+
 <div align="center">
   <a href="https://github.com/BrunaMarques1612">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunaMarques1612&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
@@ -32,4 +32,8 @@ Eu sou a Bruna Marques 👋
   
   ![Snake animation](https://github.com/BrunaMarques1612/BrunaMarques1612/blob/output/github-contribution-grid-snake.svg)
  
+  
 </div>
+
+  ##
+    
