@@ -21,8 +21,8 @@ Eu sou a Bruna Marques 👋
   <img align="center" alt="Bruna-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img align="center" alt="Bruna-Ps" height="30" width="40" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=3161a0">
   <img align="center" alt="Bruna-Bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7e46d2">
+  <img align="center" alt="Bruna-Cordova" height="30" width="40" src="https://icongr.am/simple/apachecordova.svg?size=128&color=currentColor&colored=false">
   <img align="center" alt="Bruna-PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=000000">
- 
   
   ##
  
