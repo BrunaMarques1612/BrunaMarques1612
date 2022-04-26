@@ -19,12 +19,14 @@ Eu sou a Bruna Marques 👋
   <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruna-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Bruna-JAVA" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Bruna-Ps" height="30" width="40" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=3161a0">
   <img align="center" alt="Bruna-Bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7e46d2">
   <img align="center" alt="Bruna-Cordova" height="30" width="40" src="https://icongr.am/simple/apachecordova.svg?size=128&color=currentColor&colored=false">
   <img align="center" alt="Bruna-PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=000000">
+ 
   
-  ##
+##
  
 <div> 
   <a href = "bruna.marques1612@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
