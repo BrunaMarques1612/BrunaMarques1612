@@ -24,6 +24,7 @@ Eu sou a Bruna Marques 👋
   <img align="center" alt="Bruna-Bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7e46d2">
   <img align="center" alt="Bruna-Cordova" height="30" width="40" src="https://icongr.am/simple/apachecordova.svg?size=128&color=currentColor&colored=false">
   <img align="center" alt="Bruna-PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=000000">
+  <img align="center" alt="Bruna-My_SQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
  
   
 ##
