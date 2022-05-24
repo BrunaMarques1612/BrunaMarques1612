@@ -1,5 +1,5 @@
 ### Oie, Bem-Vindo(a)
-Eu sou a Bruna Marques 👋
+Eu sou a Bruna Marques, tenho 18 anos 👋
 
 - 📔 Aluna de Desenvolvimento de Sistemas Etec Zona Leste - 2°Semestre
 - 📖 Aluna do Competec Each-Usp
