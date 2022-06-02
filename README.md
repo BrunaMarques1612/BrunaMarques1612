@@ -3,6 +3,7 @@ Eu sou a Bruna Marques, tenho 18 anos 👋
 
 - 📔 Aluna de Desenvolvimento de Sistemas Etec Zona Leste - 2°Semestre
 - 📖 Aluna do Competec Each-Usp
+- 🖥️ Apaixonada por Front-end Developer
 
 🚀 “Se te oferecem um lugar em um foguete, não pergunte qual é o assento, apenas embarque.” (Sheryl Sandberg)
 
