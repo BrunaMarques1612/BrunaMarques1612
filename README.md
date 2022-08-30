@@ -5,7 +5,7 @@ Eu sou a Bruna Marques, tenho 18 anos 👋
 - 📖 Aluna de Lógica de Programação - USP Leste
 - 🖥️ Apaixonada por Front-end Developer
 
-🚀 “Se te oferecem um lugar em um foguete, não pergunte qual é o assento, apenas embarque.” (Sheryl Sandberg)
+  🌻 “Não posso mudar a direção do vento, mas posso ajustar minhas velas para chegar ao meu destino” (Jimmy Dean)
 
 ##
 
