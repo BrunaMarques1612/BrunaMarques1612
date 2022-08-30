@@ -6,7 +6,7 @@ Eu sou a Bruna Marques, tenho 18 anos 👋
 - 🖥️ Apaixonada por Front-end Developer
 
 ##
-
+<br>
 🌻 “Não posso mudar a direção do vento, mas posso ajustar minhas velas para chegar ao meu destino.” (Jimmy Dean)
 
 ##
