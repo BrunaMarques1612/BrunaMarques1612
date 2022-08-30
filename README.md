@@ -5,8 +5,9 @@ Eu sou a Bruna Marques, tenho 18 anos 👋
 - 📖 Aluna de Lógica de Programação - USP Leste
 - 🖥️ Apaixonada por Front-end Developer
 
-  🌻 “Não posso mudar a direção do vento, mas posso ajustar minhas velas para chegar ao meu destino” 
-                                                                               (Jimmy Dean)
+##
+
+🌻 “Não posso mudar a direção do vento, mas posso ajustar minhas velas para chegar ao meu destino.” (Jimmy Dean)
 
 ##
 
