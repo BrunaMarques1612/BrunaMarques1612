@@ -1,8 +1,9 @@
 ### Oie, Bem-Vindo(a)
-Eu sou a Bruna Marques, tenho 18 anos 👋
+Eu sou a Bruna Marques, tenho 19 anos 👋
 
-- 📔 Aluna de Desenvolvimento de Sistemas - Etec Zona Leste
-- 📖 Aluna de Lógica de Programação - USP Leste
+- 👩🏻‍💻 Aluna de Ciências da Computação - Universidade São Judas Tadeu 
+- 📔 Desenvolvimento de Sistemas - Etec Zona Leste
+- 📖 Lógica de Programação - USP Leste
 - 🖥️ Apaixonada por Desenvolvimento Front-end
 
 ##
