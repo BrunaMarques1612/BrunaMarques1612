@@ -32,8 +32,6 @@ Eu sou a Bruna Marques, tenho 19 anos 👋
   <img align="center" alt="Bruna-PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=000000">
   <img align="center" alt="Bruna-My_SQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
  
-
-
   
 ##
  
