@@ -41,10 +41,4 @@ Eu sou a Bruna Marques, tenho 19 anos 👋
  
   ##
   
-  ![Snake animation](https://github.com/BrunaMarques1612/BrunaMarques1612/blob/output/github-contribution-grid-snake.svg)
- 
-  
-</div>
 
-  ##
-    
