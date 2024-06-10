@@ -1,7 +1,7 @@
 ### Oie, Bem-Vindo(a)
 Eu sou a Bruna Marques, tenho 20 anos 👋
 
-- 👩🏻‍💻 Aluna de Ciências da Computação - Universidade São Judas Tadeu 
+- 👩🏻‍💻 Aluna de Ciência da Computação - Universidade São Judas Tadeu 
 - 📔 Desenvolvimento de Sistemas - Etec Zona Leste
 - 📖 Lógica de Programação - USP Leste
 - 🖥️ Apaixonada por Desenvolvimento Web
